@@ -1,0 +1,5 @@
+This manual describes how to use GitHub to manage files and source code versions remotely.
+It explains the fundamental concept about Git’s version control system (VCS) and the architecture that GitHub uses.
+At the heart of GitHub is Git, an open source distributed VCS created by Linux Torvalds with the goal of creating a VCS that supports distributed workflows, safeguards against content corruption and high performance.
+Git keeps track of changes that you make to files and directories and its especially good at keeping tracks to text changes that you make.
+It manages several versions of the changes you make to files and allows you to move back and forth between different versions, compare different versions and to see what changed between each one.

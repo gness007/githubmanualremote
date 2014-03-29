@@ -1,0 +1,14 @@
+We going to start up by setting up a remote repository and we are going to do that by signing up for an account at GitHub with the URL shown below.
+http://github.com/join
+Step 1.
+
+Step 2.
+They offer free and inexpensive hosting plans.
+Free plans are great when you are just getting started but then you can always upgrade to inexpensive plans as your needs grow.
+
+Step 3.
+Welcome to your GitHub dashboard!
+Setup up your profile and start creating repositories right away.
+You can also browse interesting public repositories by categories/programming languages such as java,php rubby etc.
+
+Github offers many great features for example charting graph that shows the state of the different branches on the commits that have been made or graph showing the activity on a project overtime.

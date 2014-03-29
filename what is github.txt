@@ -1,0 +1,13 @@
+
+
+Github is a web-based hosting service platform for projects that uses the Git version control system (VCS)
+Github allows git users to collaborate to create, update and manage git repositories.
+
+In other to utilize the Github web hosting service, you should already have the Git (VCS) software installed on your local machine which is available on different platforms (Windows,Linux,Mac) or you may choose to install the Github software instead of the traditional Git.
+In this manual, we will be using the Git software for windows.
+
+Below are the links to the Git software distributions and you should choose the one appropriate for your platform (operating system).
+
+http://git-scm.com/download/win
+http://git-scm.com/download/linux
+http://git-scm.com/download/mac
