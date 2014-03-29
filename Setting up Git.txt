@@ -1,0 +1,2 @@
+Once you have git installed and configured the next step is to initialize git in a project, essentially to tell git to start tracking changes in the git project.
+This initialization can be done from git bash command line tool or from the git GUI which we will be using.
